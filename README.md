@@ -24,10 +24,13 @@ Some survey questions are multiple-choice, so a single question may be represent
 
 ## 🔑 Main Variables
 
-Variable	Description
+
 AISelect	Represents the user's current AI usage or plans to use AI
+
 AISent	Represents the user's level of interest and sentiment toward AI
+
 AIBen	Represents the user's level of trust in AI
+
 AICurrentlyUsed	Represents the different ways users currently use AI
 
 AISelect
