@@ -31,7 +31,7 @@ AISent	Represents the user's level of interest and sentiment toward AI
 
 AIBen	Represents the user's level of trust in AI
 
-AICurrentlyUsed	Represents the different ways users currently use AI
+AItoolCurrentlyUsing	Represents the different ways users currently use AI
 
 AISelect
 
