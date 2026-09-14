@@ -66,11 +66,11 @@ Remove rows where all answers were missing.
 
 2.1 AISelect 
 
-The distribution of `AISelect` was analyzed to understand overall AI adoption. (bar chart)
+- The distribution of `AISelect` was analyzed to understand overall AI adoption. (bar chart)
 
 2.2 AISelect × AISent
 
-A Crosstab and pivot table and Heatmap were created for:
+- A Crosstab and pivot table and Heatmap were created for:
 
 `AISelect × AISent`
 
@@ -78,7 +78,7 @@ to examine the relationship between AI usage and interest.
 
 2.3 AISelect × AIBen
 
-A Crosstab and pivot table and Heatmap were created for:
+- A Crosstab and pivot table and Heatmap were created for:
 
 `AISelect × AIBen`
 
@@ -100,9 +100,9 @@ For each use case:
 This helps identify which AI use cases are associated with higher levels of **interest and trust**.
 
 
--Bar chart showing what percentage of AI users ticked each “Currently using” option
+- Bar chart showing what percentage of AI users ticked each “Currently using” option
 
--crosstab and Heatmap of different AI tool use cases vs. view on favorability/trustworthiness
+- crosstab and Heatmap of different AI tool use cases vs. view on favorability/trustworthiness
 
 ### 4. Investigate Job Roles of AI Users
 
