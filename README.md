@@ -101,6 +101,7 @@ This helps identify which AI use cases are associated with higher levels of **in
 
 
 -Bar chart showing what percentage of AI users ticked each “Currently using” option
+
 -crosstab and Heatmap of different AI tool use cases vs. view on favorability/trustworthiness
 
 ### 4. Investigate Job Roles of AI Users
