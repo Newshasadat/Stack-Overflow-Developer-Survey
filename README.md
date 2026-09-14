@@ -90,7 +90,13 @@ to examine the relationship between AI usage and trust.
 
  Tabulate sentiment and trust in relation to different AI use cases.
 
-The `AItoolCurrentlyUsing` column contains the different ways users currently use AI, such as coding and other activities.
+The `AIToolCurrentlyUsing` column contains the different ways users currently use AI, such as coding and other activities.
+
+The column contains values corresponding to multiple-choice options from a survey question. The options are not mutually exclusive, so a single response can contain multiple answers separated by semicolons. We can transform these responses into indicator variables, using binary columns to represent whether each possible answer was selected.
+
+One benefit of indicator variables is that the sum of each column represents the number of people who selected a particular option, while the mean of each column represents the proportion (or percentage) of respondents who selected that option.
+
+
 
 For each use case:
 
