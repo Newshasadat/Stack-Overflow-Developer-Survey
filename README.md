@@ -37,21 +37,22 @@ The data dictionary is provided in two parts, both included in the supplementary
   A PDF copy of the original survey. It allows us to directly observe the data-generating process, which is rare.
 
 ---
+## 🔄 Project Workflow
 
-## Project Progress
-
-The analysis follows these main stages:
-
-1. Read the survey to understand the exact questions that were asked.
-2. Examine the data dictionary and dataset to understand how survey questions relate to the columns.
-3. Explore the data by examining common properties such as missing data, outliers, and similar characteristics.
-4. Identify the questions and columns relevant to the research questions.
-5. Analyze the relationships between the selected variables and the AI-related outcomes of interest.
-6. Summarize the findings.
+| Stage | Description |
+|---|---|
+| 📖 Survey Understanding | Read the survey to understand the questions and the information collected from developers |
+| 🗂️ Data Understanding | Examine the data dictionary and dataset |
+| 🔍 Data Exploration | Investigate missing data, outliers, and other characteristics |
+| 🎯 Variable Selection | Identify questions and columns relevant to the research questions |
+| 🤖 AI Analysis | Analyze AI usage, favorability, trust, and use cases |
+| 👥 User Analysis | Investigate job roles and coding experience |
+| 💡 Market Analysis | Identify potential AI product opportunities |
+| 📊 Findings | Summarize the results and key findings |
 
 ---
 
-## Analysis Steps
+## 🔍 Analysis Steps
 
 ### 1. Investigate Missing Data
 
@@ -130,14 +131,14 @@ Investigate what users are **not** currently using AI tools for in order to iden
 
 ---
 
-## Project Results
+## 📊 Project Results
 
 The analysis shows that:
 
 - New and experienced coders are using AI tools differently.
 - People’s opinions about the usefulness and trustworthiness of current AI tools depend on their experience, job role, and the specific purposes for which they use the tools.
 
-### Key Findings
+### 🔑 Key Findings
 
 - **Writing and debugging code** are the most popular AI use cases, but there is clear variation in how different job roles currently use AI tools.
 - There are clearly some AI use cases that people are **less interested in**.
